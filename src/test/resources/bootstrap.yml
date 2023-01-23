@@ -1,0 +1,5 @@
+eureka.client.enabled: false
+ribbon.eureka.enabled: false
+spring.cloud.config:
+  discovery.enabled: false
+  enabled: false

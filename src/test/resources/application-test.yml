@@ -1,0 +1,4 @@
+spring-data-aerospike:
+  aerospike:
+    hosts: ${embedded.aerospike.host}:${embedded.aerospike.port}
+    namespace: ${embedded.aerospike.namespace}
