@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.8</version>
+        <version>3.0.5</version>
         <relativePath/>
     </parent>
 
@@ -21,7 +21,7 @@
         <java.version>17</java.version>
         <spring-cloud.version>2021.0.5</spring-cloud.version>
 
-        <spring-data-aerospike.version>3.5.0</spring-data-aerospike.version>
+        <spring-data-aerospike.version>4.2.0</spring-data-aerospike.version>
         <embedded-aerospike.version>2.2.14</embedded-aerospike.version>
     </properties>
 
